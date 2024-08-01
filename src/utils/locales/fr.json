@@ -1,0 +1,25 @@
+{
+  "global": {
+    "created_at": "Créé le",
+    "updated_at": "Mis à jour le",
+    "deleted_at": "Supprimé le",
+    "actions": "Actions"
+  },
+  "companies": {
+    "name": "Nom",
+    "admin_id": "ID du gestionnaire",
+    "admin": "Gestionnaire",
+    "games": "Jeux",
+    "phone": "Téléphone",
+    "website": "Site web",
+    "address": "Adresse",
+    "email": "Email",
+    "facebook": "Facebook",
+    "twitter": "Twitter",
+    "linkedin": "LinkedIn",
+    "instagram": "Instagram",
+    "youtube": "YouTube",
+    "description": "Description",
+    "status": "Statut"
+  }
+}

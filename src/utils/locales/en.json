@@ -1,0 +1,25 @@
+{
+  "global": {
+    "created_at": "Created at",
+    "updated_at": "Updated at",
+    "deleted_at": "Deleted at",
+    "actions": "Actions"
+  },
+  "companies": {
+    "name": "Name",
+    "admin_id": "Manager ID",
+    "admin": "Manager",
+    "games": "Games",
+    "phone": "Phone",
+    "website": "Website",
+    "address": "Address",
+    "email": "Email",
+    "facebook": "Facebook",
+    "twitter": "Twitter",
+    "linkedin": "LinkedIn",
+    "instagram": "Instagram",
+    "youtube": "YouTube",
+    "description": "Description",
+    "status": "Status"
+  }
+}
