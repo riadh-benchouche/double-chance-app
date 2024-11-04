@@ -88,7 +88,7 @@ const submit = async () => {
         name="name"
         label="Nom de l'entreprise"
         placeholder="Nom de l'entreprise"
-        validation="required|min:3"
+        validation="required"
     />
     <VInput
         v-model="state.company.admin_id"
